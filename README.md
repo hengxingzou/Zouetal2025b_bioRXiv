@@ -6,7 +6,7 @@ This repository contains the following directories:
 
 `Code` contains all code used for curating the data and the analyses.
 `Data` contains all data used for and generated from the analyses.
-`Figures` contains all figures generated from the analyses, including those in the manuscript.
+`Figures` contains all figures generated from the analyses, including those in the manuscript. Currently it is empty and github does not allow uploading an empty folder, so the user needs to create it if wishing to reproduce the analyses.
 
 **Currently, `Data` folder is empty because some datasets are large and cannot be uploaded to github. We can provide the data as needed before depositing it permanently upon publication.**
 
