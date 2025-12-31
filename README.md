@@ -1,5 +1,7 @@
 This repository contains data for the manuscript, **Abundance redistribution increases predator-prey interaction potentials among North American birds**, by Heng-Xing Zou, Chia Hsieh, Phoebe L. Zarnetske, Kai Zhu, and Brian C. Weeks. Heng-Xing Zou curated and analyzed the data using the code provided in the repository.
 
+See [https://doi.org/10.6084/m9.figshare.30980203](https://doi.org/10.6084/m9.figshare.30980203) for associated data.
+
 # Overview
 
 This repository contains the following directories:
